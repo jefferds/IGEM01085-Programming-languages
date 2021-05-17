@@ -1,0 +1,388 @@
+��bonds��cell_results��$f92f9d30-b368-11eb-2e66-a7bbf5a4a943��queued±published_objects��running¦output��body�!T<div class="markdown"><h1>Plano da disciplina de Linguagens de Programação</h1>
+<h2>Ementa da Disciplina:</h2>
+<ol>
+<li><p>Conceitos primários: </p>
+</li>
+</ol>
+<pre><code>- Algoritmo, programa, linguagem de programação, compilador. 
+
+
+- Evolução das linguagens de programação.</code></pre>
+<ol start="2">
+<li><p>Desenvolvimento de algoritmos: linguagens para algoritmos e refinamento passo a passo. </p>
+</li>
+<li><p>Comandos de uma linguagem procedimental: atribuição, entrada e saída, condicionais, repetitivos e seletivos. </p>
+</li>
+</ol>
+<pre><code>- Variáveis escalares e estruturadas homogêneas e heterogêneas. Vetores e encadeamento de estruturas.</code></pre>
+<ol start="4">
+<li><p>Subprogramação: funções, procedimentos, passagem de parâmetros, recursividade.  Ponteiros. </p>
+</li>
+<li><p>Noções de programação orientada a objetos.</p>
+</li>
+</ol>
+<h2>Resultados de aprendizagem esperados</h2>
+<h5>🥇 Utilizar computadores e softwares no desenvolvimento de atividades de Engenharia Mecânica.</h5>
+<h5>🥈 Desenvolver programas computacionais em linguagens de programações para solução de problema de Engenharia Mecânica.</h5>
+<h5>🥉 Conhecer ferramentas computacionais e aplicativos capazes de auxílio em atividades relacionados à Engenharia.</h5>
+<h2>Metodologia</h2>
+<h3>Estratégia</h3>
+<p>Com base no livro de ELMÔR FILHO, Gabriel et al. <a href='https://g.co/kgs/z62mSU' target='_blank'>Uma nova sala de aula é possível: aprendizagem ativa na educação em engenharia.</a> Rio de Janeiro: LTC, 2019.</p>
+<p>Será aplicada a <strong>Sala de aula invertida</strong> com utilização da Estratégia <em>Co-op co-op</em> que é uma estratégia cooperativa de aprendizagem ativa.</p>
+<p>🧑‍🎓 Os estudantes trabalham juntos, em pequenas equipes &#40;3 ou 4 membros&#41;, para investigar um tópico ou resolver um problema, e produzir um produto de grupo que eles compartilham com toda a classe.</p>
+<p>🧑‍🎓 Os estudantes cooperam dentro de suas equipes para produzir algo que irá beneficiar o grande grupo &#40;Estudos de caso que ficarão disponíveis na internet até o fim da disciplina&#41;.</p>
+<p>👨‍🔬 Mediação do professor em todas as etapas de desenvolvimento da estratégia.</p>
+<h2>Roteiro</h2>
+<h4>Momento Pré</h4>
+<p>🕐 1. O professor anuncia por meio de uma orientação por escrito &#40;Sala&#41;:</p>
+<ul>
+<li><p>A atividade a ser desenvolvida.</p>
+</li>
+<li><p>O respectivo tema e subtópicos.</p>
+</li>
+<li><p>Uma síntese da estratégia e </p>
+</li>
+<li><p>O cronograma incluindo o período para as avaliações da atividade.</p>
+</li>
+</ul>
+<p>🕑 2. Os estudantes têm a tarefa de ler sobre o assunto e postar no Classroom resumo de uma página do que estudou &#40;Resumo pré&#41; &#40;Extra sala&#41;.</p>
+<h2>Roteiro</h2>
+<h4>Momento Aula</h4>
+<p>🕒 3. Rápida verificação do entendimento do tema pelo professor &#40;Sala&#41;.</p>
+<p>🕓 4. Promoção de discussão sobre os interesses no tema que será estudado. O que querem aprender e experienciar durante a unidade? &#40;Sala&#41;.</p>
+<p>🕔 5. Seleção do tópico que cada grupo irá estudar. Os estudantes discutem seus interesses e selecionam um tópico para seu grupo &#40;Aula&#41;.</p>
+<p>🕕 6. Cada grupo divide seu tópico em subtópicos para dividir o trabalho dentro do grupo &#40;Aula&#41;.</p>
+<p>🕖 7. Preparação dos subtópicos pelos membros do grupo &#40;estudo individual&#41;.</p>
+<p>🕗 8. Os membros do grupo discutem o tema, como um painel de especialistas, apresentando os conceitos e questões chaves &#40;reunião do grupo&#41;.</p>
+<p>🕘 9. Apresentação formais dos subtópicos em cada grupo &#40;reunião do grupo&#41;.</p>
+<p>🕙 10. Apresentações de subtópicos pelos grupos &#40;seleção por sorteio a critério do professsor&#41; &#40;sala&#41;.</p>
+<h2>Roteiro</h2>
+<h4>Momento Pós</h4>
+<p>🕚 11. Preparação das apresentações de cada um dos grupos &#40;reunião do grupo&#41;.</p>
+<p>🕛 12. Envio via Classroom do relatório da atividade para postagem na internet.</p>
+<p>🕐 13. Apresentações de cada um dos grupos &#40;sala&#41;.</p>
+<p>🕑 14. Avaliações &#40;Extra sala&#41;.</p>
+<p>🕒 15. Feedback &#40;sala&#41;.</p>
+<h2>Recursos e Materiais Didáticos</h2>
+<ol>
+<li><p>Google Classroom;</p>
+</li>
+<li><p>Google Meet para encontros;</p>
+</li>
+<li><p>Jamboard como quadro branco;</p>
+</li>
+<li><p>Google Forms para formulários e avaliações;</p>
+</li>
+<li><p>Google Drive para arquivos &#40;Docs, Slides, Planilhas, Desenhos&#41;;</p>
+</li>
+<li><p>Os recurso <a href='https://code.visualstudio.com/' target='_blank'>Vscode</a> e <a href='https://julialang.org/' target='_blank'>Linguagem Julia</a> e <a href='https://github.com/fonsp/Pluto.jl' target='_blank'>Pluto.jl</a> para Relatórios.</p>
+</li>
+<li><p>Página do professor para registro dos casos.</p>
+</li>
+</ol>
+<h2>Indicações de Referências</h2>
+<h3>Bibliografia Atual</h3>
+<ol>
+<li><p>Documentação do <a href="https://docs.julialang.org/en/v1/">Julia</a></p>
+</li>
+<li><p>Artigos e Blogs na Internet.</p>
+</li>
+</ol>
+<h3>Bibliografia Básica &#40;PPC&#41;:</h3>
+<ol>
+<li><p>CELES, W. et al. Introdução a Estruturas de Dados. Rio de Janeiro: Campus-Elsevier,2004.</p>
+</li>
+<li><p>MOKARZEL, F.C.; SOMA, N.Y. Introdução à Ciência da Computação. Rio de Janeiro: Campus-Elsevier, 2008.</p>
+</li>
+<li><p>FEOFILOFF, P. Algoritmos em Linguagem C. Rio de Janeiro: Campus-Elsevier, 2009.</p>
+</li>
+</ol>
+<h3>Bibliografia Complementar  &#40;PPC&#41;:</h3>
+<ol>
+<li><p>DROSDEK, A. Estrutura de Dados e Algoritmos em C&#43;&#43;. São Paulo: Thomson,2002.</p>
+</li>
+<li><p>MIZRAHI, V.V. Treinamento em Linguagem C. São Paulo: Pearson, 2008.</p>
+</li>
+<li><p>SALIBA, W. L. C. Técnicas de Programação: uma AbordagemAlgorítmica. São Paulo: Makron, 1992.</p>
+</li>
+<li><p>RUMBAUGH, James et al. Object-oriented modeling and design. Englewood Cliffs: Prentice-hall, 1991.</p>
+</li>
+<li><p>ART, Lew; MAUCH, Holger. Introduction to dynamic programming. Springer Berlin Heidelberg, 2007.</p>
+</li>
+</ol>
+<h2>Procedimento de Avaliação da Apredizagem</h2>
+<p>Avaliação será:</p>
+<ul>
+<li><p>Contínua </p>
+</li>
+<li><p>Individual </p>
+</li>
+<li><p>Por atividade a ser desenvolvida</p>
+</li>
+</ul>
+<h2>Procedimento de Avaliação da Apredizagem</h2>
+<h3>Regras:</h3>
+<ul>
+<li><p>As avaliações serão feitas via <a href=https://forms.gle/zMoVQnZ7LbPfZFZX7' target='_blank'>Formulário Eletrônico no Google Forms (Acesse aqui)</a>, com excessão do Resumo pré que deve ser entregue via Classroom.</p>
+</li>
+<li><p>Só serão aceitos emails da Unifesspa.</p>
+</li>
+<li><p>No caso de duplicidade de avaliação será considerada sempre a última avaliação enviada.</p>
+</li>
+<li><p>Serão consideradas apenas as avaliações realizadas no período estipulado, ou até quando estiverem disponíveis no formulário.</p>
+</li>
+<li><p>Cada avaliação receberá uma pontuação de 0 a 100.</p>
+</li>
+<li><p>A nota para o conceito final será a média das notas das atividades propostas.</p>
+</li>
+</ul>
+<h2>Procedimento de Avaliação da Apredizage</h2>
+<h3>Composição das Notas</h3>
+<p>A seguir são enumeradas os itens que serão avaliados.</p>
+<p>Para cada atividade serão avaliados:</p>
+<ol>
+<li><p>Apresentações dos grupos &#40;peso 1&#41;.</p>
+</li>
+<li><p>Contribuições individuais &#40;peso 1&#41;.</p>
+</li>
+<li><p>Relatório em arquivo html para postagem &#40;peso 1&#41;.</p>
+</li>
+</ol>
+<h2>Procedimento de Avaliação da Apredizagem</h2>
+<h3>Composição das Notas</h3>
+<h4>1. Apresentações dos grupos &#40;peso 1&#41;</h4>
+<p>Avalições que serão consideradas neste item: </p>
+<ul>
+<li><p>Avaliação por pares &#40;peso 1&#41;</p>
+</li>
+<li><p>Avaliação do professor &#40;peso 1&#41;</p>
+</li>
+</ul>
+<h2>Procedimento de Avaliação da Apredizagem</h2>
+<h3>Composição das Notas</h3>
+<h4>2. Contribuições individuais &#40;peso 1&#41;</h4>
+<p>Avaliações que serão consideradas: </p>
+<ul>
+<li><p>Avaliação do resumo pré &#40;peso 1&#41;</p>
+</li>
+<li><p>Avaliação por pares &#40;peso 1&#41;</p>
+</li>
+<li><p>Avaliação do professor &#40;peso 1&#41;</p>
+</li>
+</ul>
+<h2>Procedimento de Avaliação da Apredizagem</h2>
+<h3>Composição das Notas</h3>
+<h4>3. Relatório em arquivo html para postagem &#40;peso 1&#41;.</h4>
+<ul>
+<li><p>Autoavaliação &#40;peso 1&#41;</p>
+</li>
+<li><p>Avaliação por pares &#40;peso 1&#41;</p>
+</li>
+<li><p>Avaliação do professor &#40;peso 1&#41;</p>
+</li>
+</ul>
+</div>�persist_js_state¤mime�text/html�last_run_timestamp�A�(�<�v`�rootassignee��cell_id�$f92f9d30-b368-11eb-2e66-a7bbf5a4a943�runtime� bh1�errored��$e6e24892-e2b7-472f-9a5c-7d1cbe34eeb6��queued±published_objects��running¦output��body�-<button onclick=present()> Presente </button>�persist_js_state¤mime�text/html�last_run_timestamp�A�(�<���rootassignee��cell_id�$e6e24892-e2b7-472f-9a5c-7d1cbe34eeb6�runtime� /��errored±cell_dependencies��$f92f9d30-b368-11eb-2e66-a7bbf5a4a943��precedence_heuristic�cell_id�$f92f9d30-b368-11eb-2e66-a7bbf5a4a943�downstream_cells_map��upstream_cells_map��@md_str��@html_str��getindex��$e6e24892-e2b7-472f-9a5c-7d1cbe34eeb6��precedence_heuristic�cell_id�$e6e24892-e2b7-472f-9a5c-7d1cbe34eeb6�downstream_cells_map��upstream_cells_map��@html_str��cell_execution_order��$e6e24892-e2b7-472f-9a5c-7d1cbe34eeb6�$f92f9d30-b368-11eb-2e66-a7bbf5a4a943�shortpath�Plano da Disciplina.jl�process_status�starting�path�h/home/runner/work/IGEM01085-Programming-languages/IGEM01085-Programming-languages/Plano da Disciplina.jl�cell_order��$e6e24892-e2b7-472f-9a5c-7d1cbe34eeb6�$f92f9d30-b368-11eb-2e66-a7bbf5a4a943�cell_inputs��$f92f9d30-b368-11eb-2e66-a7bbf5a4a943��cell_id�$f92f9d30-b368-11eb-2e66-a7bbf5a4a943�code��md"""
+# Plano da disciplina de Linguagens de Programação
+
+## Ementa da Disciplina:
+
+1. Conceitos primários: 
+
+	- Algoritmo, programa, linguagem de programação, compilador. 
+
+
+	- Evolução das linguagens de programação. 
+
+2. Desenvolvimento de algoritmos: linguagens para algoritmos e refinamento passo a passo. 
+
+3. Comandos de uma linguagem procedimental: atribuição, entrada e saída, condicionais, repetitivos e seletivos. 
+
+	- Variáveis escalares e estruturadas homogêneas e heterogêneas. Vetores e encadeamento de estruturas. 
+
+4. Subprogramação: funções, procedimentos, passagem de parâmetros, recursividade.  Ponteiros. 
+
+5. Noções de programação orientada a objetos.
+
+
+## Resultados de aprendizagem esperados
+
+##### 🥇 Utilizar computadores e softwares no desenvolvimento de atividades de Engenharia Mecânica.
+
+##### 🥈 Desenvolver programas computacionais em linguagens de programações para solução de problema de Engenharia Mecânica.
+
+##### 🥉 Conhecer ferramentas computacionais e aplicativos capazes de auxílio em atividades relacionados à Engenharia.
+
+
+## Metodologia
+
+### Estratégia
+
+Com base no livro de ELMÔR FILHO, Gabriel et al. $(html"<a href='https://g.co/kgs/z62mSU' target='_blank'>Uma nova sala de aula é possível: aprendizagem ativa na educação em engenharia.</a>") Rio de Janeiro: LTC, 2019.
+
+
+Será aplicada a **Sala de aula invertida** com utilização da Estratégia *Co-op co-op* que é uma estratégia cooperativa de aprendizagem ativa.
+
+🧑‍🎓 Os estudantes trabalham juntos, em pequenas equipes (3 ou 4 membros), para investigar um tópico ou resolver um problema, e produzir um produto de grupo que eles compartilham com toda a classe.
+
+🧑‍🎓 Os estudantes cooperam dentro de suas equipes para produzir algo que irá beneficiar o grande grupo (Estudos de caso que ficarão disponíveis na internet até o fim da disciplina).
+
+👨‍🔬 Mediação do professor em todas as etapas de desenvolvimento da estratégia.
+
+## Roteiro
+
+#### Momento Pré
+
+🕐 1. O professor anuncia por meio de uma orientação por escrito (Sala):
+
+   - A atividade a ser desenvolvida.
+   - O respectivo tema e subtópicos.
+   - Uma síntese da estratégia e 
+   - O cronograma incluindo o período para as avaliações da atividade.
+
+🕑 2. Os estudantes têm a tarefa de ler sobre o assunto e postar no Classroom resumo de uma página do que estudou (Resumo pré) (Extra sala).
+
+## Roteiro
+
+#### Momento Aula
+
+🕒 3. Rápida verificação do entendimento do tema pelo professor (Sala).
+
+🕓 4. Promoção de discussão sobre os interesses no tema que será estudado. O que querem aprender e experienciar durante a unidade? (Sala).
+
+🕔 5. Seleção do tópico que cada grupo irá estudar. Os estudantes discutem seus interesses e selecionam um tópico para seu grupo (Aula).
+
+🕕 6. Cada grupo divide seu tópico em subtópicos para dividir o trabalho dentro do grupo (Aula).
+
+🕖 7. Preparação dos subtópicos pelos membros do grupo (estudo individual).
+
+🕗 8. Os membros do grupo discutem o tema, como um painel de especialistas, apresentando os conceitos e questões chaves (reunião do grupo).
+
+🕘 9. Apresentação formais dos subtópicos em cada grupo (reunião do grupo).
+
+🕙 10. Apresentações de subtópicos pelos grupos (seleção por sorteio a critério do professsor) (sala).
+
+## Roteiro
+
+#### Momento Pós
+
+🕚 11. Preparação das apresentações de cada um dos grupos (reunião do grupo).
+
+🕛 12. Envio via Classroom do relatório da atividade para postagem na internet.
+
+🕐 13. Apresentações de cada um dos grupos (sala).
+
+🕑 14. Avaliações (Extra sala).
+
+🕒 15. Feedback (sala).
+
+
+
+## Recursos e Materiais Didáticos
+
+1. Google Classroom;
+2. Google Meet para encontros;
+3. Jamboard como quadro branco;
+4. Google Forms para formulários e avaliações;
+5. Google Drive para arquivos (Docs, Slides, Planilhas, Desenhos);
+6. Os recurso $(html"<a href='https://code.visualstudio.com/' target='_blank'>Vscode</a>") e $(html"<a href='https://julialang.org/' target='_blank'>Linguagem Julia</a>") e $(html"<a href='https://github.com/fonsp/Pluto.jl' target='_blank'>Pluto.jl</a>") para Relatórios.
+7. Página do professor para registro dos casos.
+
+## Indicações de Referências
+
+### Bibliografia Atual
+
+1. Documentação do [Julia](https://docs.julialang.org/en/v1/)
+
+2. Artigos e Blogs na Internet.
+
+
+### Bibliografia Básica (PPC):
+
+1. CELES, W. et al. Introdução a Estruturas de Dados. Rio de Janeiro: Campus-Elsevier,2004.
+
+2. MOKARZEL, F.C.; SOMA, N.Y. Introdução à Ciência da Computação. Rio de Janeiro: Campus-Elsevier, 2008.
+
+3. FEOFILOFF, P. Algoritmos em Linguagem C. Rio de Janeiro: Campus-Elsevier, 2009.
+
+
+### Bibliografia Complementar  (PPC):
+
+1. DROSDEK, A. Estrutura de Dados e Algoritmos em C++. São Paulo: Thomson,2002.
+
+2. MIZRAHI, V.V. Treinamento em Linguagem C. São Paulo: Pearson, 2008.
+
+3. SALIBA, W. L. C. Técnicas de Programação: uma AbordagemAlgorítmica. São Paulo: Makron, 1992.
+
+4. RUMBAUGH, James et al. Object-oriented modeling and design. Englewood Cliffs: Prentice-hall, 1991.
+
+5. ART, Lew; MAUCH, Holger. Introduction to dynamic programming. Springer Berlin Heidelberg, 2007.
+
+
+## Procedimento de Avaliação da Apredizagem
+
+Avaliação será:
+
+- Contínua 
+- Individual 
+- Por atividade a ser desenvolvida
+
+## Procedimento de Avaliação da Apredizagem
+
+### Regras:
+
+- As avaliações serão feitas via $(html"<a href=https://forms.gle/zMoVQnZ7LbPfZFZX7' target='_blank'>Formulário Eletrônico no Google Forms (Acesse aqui)</a>"), com excessão do Resumo pré que deve ser entregue via Classroom.
+- Só serão aceitos emails da Unifesspa.
+- No caso de duplicidade de avaliação será considerada sempre a última avaliação enviada.
+- Serão consideradas apenas as avaliações realizadas no período estipulado, ou até quando estiverem disponíveis no formulário.
+- Cada avaliação receberá uma pontuação de 0 a 100.
+- A nota para o conceito final será a média das notas das atividades propostas.
+
+## Procedimento de Avaliação da Apredizage
+
+### Composição das Notas
+
+A seguir são enumeradas os itens que serão avaliados.
+
+Para cada atividade serão avaliados:
+
+1. Apresentações dos grupos (peso 1).
+2. Contribuições individuais (peso 1).
+3. Relatório em arquivo html para postagem (peso 1).
+
+
+## Procedimento de Avaliação da Apredizagem
+
+### Composição das Notas
+
+#### 1. Apresentações dos grupos (peso 1)
+
+Avalições que serão consideradas neste item: 
+
+- Avaliação por pares (peso 1)
+- Avaliação do professor (peso 1)
+
+
+## Procedimento de Avaliação da Apredizagem
+
+### Composição das Notas
+
+#### 2. Contribuições individuais (peso 1)
+
+Avaliações que serão consideradas: 
+
+- Avaliação do resumo pré (peso 1)
+- Avaliação por pares (peso 1)
+- Avaliação do professor (peso 1)
+
+
+## Procedimento de Avaliação da Apredizagem
+
+### Composição das Notas
+
+#### 3. Relatório em arquivo html para postagem (peso 1).
+
+- Autoavaliação (peso 1)
+- Avaliação por pares (peso 1)
+- Avaliação do professor (peso 1)
+
+"""�code_folded��$e6e24892-e2b7-472f-9a5c-7d1cbe34eeb6��cell_id�$e6e24892-e2b7-472f-9a5c-7d1cbe34eeb6�code�3html"<button onclick=present()> Presente </button>"�code_foldedënotebook_id�$ee9f092e-b722-11eb-0170-bdef49a55cdf�in_temp_dir�
