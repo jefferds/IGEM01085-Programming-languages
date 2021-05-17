@@ -116,20 +116,21 @@ Será aplicada a **Sala de aula invertida** com utilização da Estratégia *Co-
 
 ## Indicações de Referências
 
-### Bibliografia Atual
+### Bibliografia
 
-1. Documentação do [Julia](https://docs.julialang.org/en/v1/)
+1. ASCENCIO, Ana Fernanda Gomes; DE CAMPOS, Edilene Aparecida Veneruchi. Fundamentos da programação de computadores. Pearson Educación, 2008.
 
-2. Artigos e Blogs na Internet.
+2. Documentação do [Julia](https://docs.julialang.org/en/v1/)
 
+3. Artigos e Blogs na Internet.
 
-### Bibliografia Básica (PPC):
+### Bibliografia (PPC):
 
-1. CELES, W. et al. Introdução a Estruturas de Dados. Rio de Janeiro: Campus-Elsevier,2004.
+4. CELES, W. et al. Introdução a Estruturas de Dados. Rio de Janeiro: Campus-Elsevier,2004.
 
-2. MOKARZEL, F.C.; SOMA, N.Y. Introdução à Ciência da Computação. Rio de Janeiro: Campus-Elsevier, 2008.
+5. MOKARZEL, F.C.; SOMA, N.Y. Introdução à Ciência da Computação. Rio de Janeiro: Campus-Elsevier, 2008.
 
-3. FEOFILOFF, P. Algoritmos em Linguagem C. Rio de Janeiro: Campus-Elsevier, 2009.
+6. FEOFILOFF, P. Algoritmos em Linguagem C. Rio de Janeiro: Campus-Elsevier, 2009.
 
 
 ### Bibliografia Complementar  (PPC):
@@ -216,4 +217,4 @@ Avaliações que serão consideradas:
 
 # ╔═╡ Cell order:
 # ╟─e6e24892-e2b7-472f-9a5c-7d1cbe34eeb6
-# ╟─f92f9d30-b368-11eb-2e66-a7bbf5a4a943
+# ╠═f92f9d30-b368-11eb-2e66-a7bbf5a4a943
