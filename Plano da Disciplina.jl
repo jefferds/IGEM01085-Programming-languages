@@ -158,7 +158,7 @@ Avaliação será:
 
 ### Regras:
 
-- As avaliações serão feitas via $(html"<a href=https://forms.gle/zMoVQnZ7LbPfZFZX7' target='_blank'>Formulário Eletrônico no Google Forms (Acesse aqui)</a>"), com excessão do Resumo pré que deve ser entregue via Classroom.
+- As avaliações serão feitas via Formulário Eletrônico no Google Forms, com excessão do Resumo pré que deve ser entregue via Classroom.
 - Só serão aceitos emails da Unifesspa.
 - No caso de duplicidade de avaliação será considerada sempre a última avaliação enviada.
 - Serão consideradas apenas as avaliações realizadas no período estipulado, ou até quando estiverem disponíveis no formulário.
