@@ -9,7 +9,7 @@ html"<button onclick=present()> Presente </button>"
 
 # ╔═╡ 4fb54a13-3db2-4475-bd49-fd0f9d5cefa4
 md"""
-## Plano Unidade 02 - Modelos matemático, algoritmo, o código e simulações.
+## Plano Unidade 02 - Modelo matemático, algoritmo, o código e simulações.
 
 ## Ementa da Disciplina:
 
