@@ -75,15 +75,15 @@ md"""
 
 🕒 3. (10 min) Rápida apresentação do tema pelo professor.
 
-🕓 4. (15 min) Promoção de discussão sobre os interesses no tema que será estudado. O que querem aprender e experienciar durante a unidade? (Sala).
+🕓 4. (15 min) Promoção de discussão sobre os interesses no tema que será estudado. O que será aprendendidi e experienciar durante a unidade? (Sala).
 
-🕔 5. (5 min) Seleção do tópico que cada grupo irá estudar. Os estudantes discutem seus interesses e selecionam um tópico para seu grupo (Sala).
+🕔 5. (5 min) Seleção dos exercicios que serão realizados pelos grupos. Cada estudante escolhe um exemplo de calculo simples a ser implementado (Sala).
 
-🕕 6. (5 min) Cada grupo divide seu tópico em subtópicos para dividir o trabalho dentro do grupo (Sala).
+🕕 6. (5 min) Cada grupo divide os exemplos entre os estudantes do grupo (Sala).
 
-🕖 7. (30 min) Preparação dos subtópicos pelos membros do grupo (estudo individual).
+🕖 7. (30 min) Realização (modelo, algoritmo, codigo e simulação) pelos membros dos grupsos (estudo individual).
 
-🕗 8. (10 min) Os membros do grupo discutem o tema, como um painel de especialistas, apresentando os conceitos e questões chaves (reunião do grupo).
+🕗 8. (10 min) Os membros do grupo discutem os exemplos feitos, como um painel de especialistas, apresentando os conceitos e questões chaves (reunião do grupo).
 
 🕘 9. (10 min) Apresentação formais dos subtópicos em cada grupo (reunião do grupo).
 
