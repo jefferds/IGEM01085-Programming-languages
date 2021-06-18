@@ -1,5 +1,5 @@
 ### A Pluto.jl notebook ###
-# v0.14.5
+# v0.14.8
 
 using Markdown
 using InteractiveUtils
@@ -23,11 +23,17 @@ md"""
 
 **Fonte:** ASCENCIO, Ana Fernanda Gomes; DE CAMPOS, Edilene Aparecida Veneruchi. Fundamentos da programação de computadores. Pearson Educación, 2008.
 
-- Capitulo 3 do livro. 
+**Capitulo 3 do livro.**
  
-- 3.1 Estrutura sequencial em algoritmos
+- 3.1 Estrutura sequencial em algoritmos.
 
-- 3.3 Estrutura sequencial em C/C++
+- 3.3 Estrutura sequencial em C/C++.
+
+**Capitulo 4 do livro.**
+
+- 4.1 Estrutura condicional em algoritmos.
+
+- 4.3 Estrutura condicional em c/c++.
 
 ## Resultados de aprendizagem esperados
 
@@ -39,9 +45,7 @@ md"""
 
 ✔ Desenvolver estratégias para solução de problemas. 
 
-✔ Estabelecer relações interpessoais. 
-
-✔ Trabalhar em equipe. 
+✔ Estabelecer relações interpessoais e trabalhar em equipe. 
 
 ✔ Comunicar-se oralmente. 
 
@@ -56,7 +60,9 @@ md"""
  
 - Apresentar a utilização do Julia na solução de problemas de Cálculo.
 
-🕑 2. (60 min) Ler os subitems 3.1 e 3.3 e postar no Classroom resumo de até uma página do que estudou (Resumo pré);
+🕒 2. (30 min) Apresentação do tema pelo professor.
+
+🕑 3. (60 min) Ler os subitems 3.1, 3.3, 4.1 e 4.3 e postar no Classroom resumo de até uma página do que estudou (Resumo pré);
 
 #### Bibliografia.
 
@@ -68,8 +74,6 @@ md"""
 # Roteiro da aula
 
 #### Momento Aula
-
-🕒 3. (30 min) Apresentação do tema pelo professor.
 
 🕓 4. (15 min) O que será aprendendido e experienciado durante a unidade? (Sala).
 

@@ -1,21 +1,25 @@
-‹¥bonds€¬cell_results‚Ù$4fb54a13-3db2-4475-bd49-fd0f9d5cefa4ˆ¦queuedÂ±published_objects€§runningÂ¦output…¤bodyÚ<div class="markdown"><h2>Plano da Unidade 01 de Linguagens de programaÃ§Ã£o - Conceitos BÃ¡sicos.</h2>
+‹¥bonds€¬cell_results‚Ù$4fb54a13-3db2-4475-bd49-fd0f9d5cefa4ˆ¦queuedÂ±published_objects€§runningÂ¦output…¤bodyÚü<div class="markdown"><h2>Plano Unidade 02 - Modelo matemÃ¡tico, algoritmo, o cÃ³digo e simulaÃ§Ãµes.</h2>
 <h2>Ementa da Disciplina:</h2>
 <h3>Tema relacionado na ementa:</h3>
 <ol>
-<li><p>Conceitos primÃ¡rios: Algoritmo, programa, linguagem de programaÃ§Ã£o, compilador. </p>
+<li><p>Conceitos primÃ¡rios: Algoritmo, programa, linguagem de programaÃ§Ã£o, compilador.</p>
+</li>
+<li><p>Desenvolvimento de algoritmos: linguagens para algoritmos e refinamento passo a passo. </p>
 </li>
 </ol>
 <h3>Subitens</h3>
 <p><strong>Fonte:</strong> ASCENCIO, Ana Fernanda Gomes; DE CAMPOS, Edilene Aparecida Veneruchi. Fundamentos da programaÃ§Ã£o de computadores. Pearson EducaciÃ³n, 2008.</p>
-<p>1.1 Conceito de algoritmo</p>
-<p>1.2 MÃ©todo para a construÃ§Ã£o de algoritmos</p>
-<p>1.3 Tipos de algoritmos</p>
-<p>1.4 Exemplos de algoritmos - AlgorÃ­tmo para cÃ¡lculo da posiÃ§Ã£o de um projetil &#40;LanÃ§amento oblÃ­quo&#41;. </p>
+<ul>
+<li><p>SeÃ§Ãµes 1.4 Ã  1.8 e 1.10 do livro</p>
+</li>
+<li><p>Capitulo 2 do livro. </p>
+</li>
+</ul>
 <h2>Resultados de aprendizagem esperados</h2>
 <p>âœ” Compreendeer e aplicar os conceitos de algoritmo, programa e linguagem de programaÃ§Ã£o.</p>
 <p>âœ” Apresentar a modelagem para cÃ¡lculo das equaÃ§Ãµes de lanÃ§amento oblÃ­quo. </p>
 <p>âœ” Utilizar as ferramentas <a href='https://code.visualstudio.com/' target='_blank'>Vscode</a> e <a href='https://julialang.org/' target='_blank'>Linguagem Julia</a> e <a href='https://github.com/fonsp/Pluto.jl' target='_blank'>Pluto.jl</a> para simulaÃ§Ãµes e apresentaÃ§Ã£o de relatÃ³rios.</p>
-<p>âœ” Discutir duas tarefas entre as principais dos engenheiros, a saber, simulaÃ§Ãµes e cÃ¡lculos.</p>
+<p>âœ” Discutir as ativididades de simulaÃ§Ãµes e cÃ¡lculos.</p>
 <p>âœ” Desenvolver estratÃ©gias para soluÃ§Ã£o de problemas. </p>
 <p>âœ” Estabelecer relaÃ§Ãµes interpessoais. </p>
 <p>âœ” Trabalhar em equipe. </p>
@@ -25,12 +29,15 @@
 <h4>Momento PrÃ©</h4>
 <p>ğŸ• 1. O professor anuncia por meio de uma orientaÃ§Ã£o por escrito &#40;Sala&#41;:</p>
 <ul>
-<li><p>A atividade a ser desenvolvida:</p>
+<li><p>Atividade a ser executada por cada grupo &#40;momento aula&#41;</p>
 </li>
 </ul>
-<pre><code>Implementar em liguagem Julia, utilizando vscode e Pluto.jl, uma modelo computacional que permina calcular a posiÃ§Ã£o de um projÃ©til em lanÃ§amento oblÃ­quo. 
-
-Na produÃ§Ã£o e apresentaÃ§Ã£o do relatÃ³rio discutir, os conceitos de Algoritmo, programa, linguagem de programaÃ§Ã£o e compilador.</code></pre>
+<ul>
+<li><p>Implementar e apresentar o programa de cÃ¡lculo do lanÃ§amento obliquo com o modelo matemÃ¡tico, algoritmo, o cÃ³digo e simulaÃ§Ãµes.</p>
+</li>
+<li><p>Escolher 3 outros exemplos, implementar e apresentar o programa de cÃ¡lculo com o modelo matemÃ¡tico, algoritmo, o cÃ³digo e simulaÃ§Ãµes.</p>
+</li>
+</ul>
 <p>ğŸ•‘  2. &#40;60 min&#41; Os estudantes tÃªm a tarefa de ler sobre o assunto e postar no Classroom resumo de atÃ© uma pÃ¡gina do que estudou &#40;Resumo prÃ©&#41;;</p>
 <h4>Bibliografia.</h4>
 <ul>
@@ -42,11 +49,11 @@ Na produÃ§Ã£o e apresentaÃ§Ã£o do relatÃ³rio discutir, os conceitos de Algoritmo
 <h1>Roteiro da aula</h1>
 <h4>Momento Aula</h4>
 <p>ğŸ•’ 3. &#40;10 min&#41; RÃ¡pida apresentaÃ§Ã£o do tema pelo professor.</p>
-<p>ğŸ•“ 4. &#40;15 min&#41; PromoÃ§Ã£o de discussÃ£o sobre os interesses no tema que serÃ¡ estudado. O que querem aprender e experienciar durante a unidade? &#40;Sala&#41;.</p>
-<p>ğŸ•” 5. &#40;5 min&#41; SeleÃ§Ã£o do tÃ³pico que cada grupo irÃ¡ estudar. Os estudantes discutem seus interesses e selecionam um tÃ³pico para seu grupo &#40;Sala&#41;.</p>
-<p>ğŸ•• 6. &#40;5 min&#41; Cada grupo divide seu tÃ³pico em subtÃ³picos para dividir o trabalho dentro do grupo &#40;Sala&#41;.</p>
-<p>ğŸ•– 7. &#40;30 min&#41; PreparaÃ§Ã£o dos subtÃ³picos pelos membros do grupo &#40;estudo individual&#41;.</p>
-<p>ğŸ•— 8. &#40;10 min&#41; Os membros do grupo discutem o tema, como um painel de especialistas, apresentando os conceitos e questÃµes chaves &#40;reuniÃ£o do grupo&#41;.</p>
+<p>ğŸ•“ 4. &#40;15 min&#41; PromoÃ§Ã£o de discussÃ£o sobre os interesses no tema que serÃ¡ estudado. O que serÃ¡ aprendendidi e experienciar durante a unidade? &#40;Sala&#41;.</p>
+<p>ğŸ•” 5. &#40;5 min&#41; SeleÃ§Ã£o dos exercicios que serÃ£o realizados pelos grupos. Cada estudante escolhe um exemplo de calculo simples a ser implementado &#40;Sala&#41;.</p>
+<p>ğŸ•• 6. &#40;5 min&#41; Cada grupo divide os exemplos entre os estudantes do grupo &#40;Sala&#41;.</p>
+<p>ğŸ•– 7. &#40;30 min&#41; RealizaÃ§Ã£o &#40;modelo, algoritmo, codigo e simulaÃ§Ã£o&#41; pelos membros dos grupsos &#40;estudo individual&#41;.</p>
+<p>ğŸ•— 8. &#40;10 min&#41; Os membros do grupo discutem os exemplos feitos, como um painel de especialistas, apresentando os conceitos e questÃµes chaves &#40;reuniÃ£o do grupo&#41;.</p>
 <p>ğŸ•˜ 9. &#40;10 min&#41; ApresentaÃ§Ã£o formais dos subtÃ³picos em cada grupo &#40;reuniÃ£o do grupo&#41;.</p>
 <p>ğŸ•™ 10. &#40;5 min/grupo&#41; ApresentaÃ§Ãµes de subtÃ³picos pelos grupos &#40;seleÃ§Ã£o por sorteio a critÃ©rio do professsor&#41; &#40;sala&#41;.</p>
 <h2>Roteiro</h2>
@@ -56,26 +63,24 @@ Na produÃ§Ã£o e apresentaÃ§Ã£o do relatÃ³rio discutir, os conceitos de Algoritmo
 <p>ğŸ• 13. &#40;10 min/grupo&#41; ApresentaÃ§Ãµes de cada um dos grupos &#40;sala&#41;.</p>
 <p>ğŸ•‘ 14. &#40;20 min/grupo&#41; AvaliaÃ§Ãµes &#40;sala ou extra sala&#41;.</p>
 <p>ğŸ•’ 15. &#40;10 min/grupo&#41; Feedback &#40;sala&#41;.</p>
-</div>°persist_js_stateÂ¤mime©text/html²last_run_timestampËAØ/õuıj×¬rootassigneeÀ§cell_idÙ$4fb54a13-3db2-4475-bd49-fd0f9d5cefa4¹depends_on_disabled_cellsÂ§runtimeÍİà§erroredÂÙ$e9af4550-b632-11eb-1d0d-e11b45468706ˆ¦queuedÂ±published_objects€§runningÂ¦output…¤bodyÙ-<button onclick=present()> Presente </button>°persist_js_stateÂ¤mime©text/html²last_run_timestampËAØ/õuı,²¬rootassigneeÀ§cell_idÙ$e9af4550-b632-11eb-1d0d-e11b45468706¹depends_on_disabled_cellsÂ§runtimeÍ	`§erroredÂ±cell_dependencies‚Ù$4fb54a13-3db2-4475-bd49-fd0f9d5cefa4„´precedence_heuristic§cell_idÙ$4fb54a13-3db2-4475-bd49-fd0f9d5cefa4´downstream_cells_map€²upstream_cells_mapƒ§@md_str©@html_str¨getindexÙ$e9af4550-b632-11eb-1d0d-e11b45468706„´precedence_heuristic§cell_idÙ$e9af4550-b632-11eb-1d0d-e11b45468706´downstream_cells_map€²upstream_cells_map©@html_str´cell_execution_order’Ù$e9af4550-b632-11eb-1d0d-e11b45468706Ù$4fb54a13-3db2-4475-bd49-fd0f9d5cefa4©shortpathÙ(Plano Unidade 01 - Conceitos BÃ¡sicos.jl®process_status¨starting¤pathÙz/home/runner/work/IGEM01085-Programming-languages/IGEM01085-Programming-languages/Plano Unidade 01 - Conceitos BÃ¡sicos.jlªcell_order’Ù$e9af4550-b632-11eb-1d0d-e11b45468706Ù$4fb54a13-3db2-4475-bd49-fd0f9d5cefa4«cell_inputs‚Ù$4fb54a13-3db2-4475-bd49-fd0f9d5cefa4„§cell_idÙ$4fb54a13-3db2-4475-bd49-fd0f9d5cefa4°running_disabledÂ¤codeÚ¶md"""
-## Plano da Unidade 01 de Linguagens de programaÃ§Ã£o - Conceitos BÃ¡sicos.
+</div>°persist_js_stateÂ¤mime©text/html²last_run_timestampËAØ3‘¥ÊÕ¬rootassigneeÀ§cell_idÙ$4fb54a13-3db2-4475-bd49-fd0f9d5cefa4¹depends_on_disabled_cellsÂ§runtimeÍèm§erroredÂÙ$e9af4550-b632-11eb-1d0d-e11b45468706ˆ¦queuedÂ±published_objects€§runningÂ¦output…¤bodyÙ-<button onclick=present()> Presente </button>°persist_js_stateÂ¤mime©text/html²last_run_timestampËAØ3‘¥‹¬rootassigneeÀ§cell_idÙ$e9af4550-b632-11eb-1d0d-e11b45468706¹depends_on_disabled_cellsÂ§runtimeÍü§erroredÂ±cell_dependencies‚Ù$4fb54a13-3db2-4475-bd49-fd0f9d5cefa4„´precedence_heuristic§cell_idÙ$4fb54a13-3db2-4475-bd49-fd0f9d5cefa4´downstream_cells_map€²upstream_cells_mapƒ§@md_str©@html_str¨getindexÙ$e9af4550-b632-11eb-1d0d-e11b45468706„´precedence_heuristic§cell_idÙ$e9af4550-b632-11eb-1d0d-e11b45468706´downstream_cells_map€²upstream_cells_map©@html_str´cell_execution_order’Ù$e9af4550-b632-11eb-1d0d-e11b45468706Ù$4fb54a13-3db2-4475-bd49-fd0f9d5cefa4©shortpathÙNPlano Unidade 02 - Modelos matemÃ¡tico, algoritmo, o cÃ³digo e simulaÃ§Ãµes.jl®process_status¨starting¤pathÙ /home/runner/work/IGEM01085-Programming-languages/IGEM01085-Programming-languages/Plano Unidade 02 - Modelos matemÃ¡tico, algoritmo, o cÃ³digo e simulaÃ§Ãµes.jlªcell_order’Ù$e9af4550-b632-11eb-1d0d-e11b45468706Ù$4fb54a13-3db2-4475-bd49-fd0f9d5cefa4«cell_inputs‚Ù$4fb54a13-3db2-4475-bd49-fd0f9d5cefa4„§cell_idÙ$4fb54a13-3db2-4475-bd49-fd0f9d5cefa4°running_disabledÂ¤codeÚ{md"""
+## Plano Unidade 02 - Modelo matemÃ¡tico, algoritmo, o cÃ³digo e simulaÃ§Ãµes.
 
 ## Ementa da Disciplina:
 
 ### Tema relacionado na ementa:
 
-1. Conceitos primÃ¡rios: Algoritmo, programa, linguagem de programaÃ§Ã£o, compilador. 
+1. Conceitos primÃ¡rios: Algoritmo, programa, linguagem de programaÃ§Ã£o, compilador.
+2. Desenvolvimento de algoritmos: linguagens para algoritmos e refinamento passo a passo. 
 
 ### Subitens
 
 **Fonte:** ASCENCIO, Ana Fernanda Gomes; DE CAMPOS, Edilene Aparecida Veneruchi. Fundamentos da programaÃ§Ã£o de computadores. Pearson EducaciÃ³n, 2008.
 
-1.1 Conceito de algoritmo
+- SeÃ§Ãµes 1.4 Ã  1.8 e 1.10 do livro
 
-1.2 MÃ©todo para a construÃ§Ã£o de algoritmos
-
-1.3 Tipos de algoritmos
-
-1.4 Exemplos de algoritmos - AlgorÃ­tmo para cÃ¡lculo da posiÃ§Ã£o de um projetil (LanÃ§amento oblÃ­quo). 
+- Capitulo 2 do livro. 
+ 
 
 ## Resultados de aprendizagem esperados
 
@@ -85,7 +90,7 @@ Na produÃ§Ã£o e apresentaÃ§Ã£o do relatÃ³rio discutir, os conceitos de Algoritmo
 
 âœ” Utilizar as ferramentas $(html"<a href='https://code.visualstudio.com/' target='_blank'>Vscode</a>") e $(html"<a href='https://julialang.org/' target='_blank'>Linguagem Julia</a>") e $(html"<a href='https://github.com/fonsp/Pluto.jl' target='_blank'>Pluto.jl</a>") para simulaÃ§Ãµes e apresentaÃ§Ã£o de relatÃ³rios.
 
-âœ” Discutir duas tarefas entre as principais dos engenheiros, a saber, simulaÃ§Ãµes e cÃ¡lculos.
+âœ” Discutir as ativididades de simulaÃ§Ãµes e cÃ¡lculos.
 
 âœ” Desenvolver estratÃ©gias para soluÃ§Ã£o de problemas. 
 
@@ -104,11 +109,11 @@ Na produÃ§Ã£o e apresentaÃ§Ã£o do relatÃ³rio discutir, os conceitos de Algoritmo
 
 ğŸ• 1. O professor anuncia por meio de uma orientaÃ§Ã£o por escrito (Sala):
 
-- A atividade a ser desenvolvida:
+* Atividade a ser executada por cada grupo (momento aula)
+ 
+- Implementar e apresentar o programa de cÃ¡lculo do lanÃ§amento obliquo com o modelo matemÃ¡tico, algoritmo, o cÃ³digo e simulaÃ§Ãµes.
 
-	Implementar em liguagem Julia, utilizando vscode e Pluto.jl, uma modelo computacional que permina calcular a posiÃ§Ã£o de um projÃ©til em lanÃ§amento oblÃ­quo. 
-
-	Na produÃ§Ã£o e apresentaÃ§Ã£o do relatÃ³rio discutir, os conceitos de Algoritmo, programa, linguagem de programaÃ§Ã£o e compilador.
+- Escolher 3 outros exemplos, implementar e apresentar o programa de cÃ¡lculo com o modelo matemÃ¡tico, algoritmo, o cÃ³digo e simulaÃ§Ãµes.
 
 ğŸ•‘  2. (60 min) Os estudantes tÃªm a tarefa de ler sobre o assunto e postar no Classroom resumo de atÃ© uma pÃ¡gina do que estudou (Resumo prÃ©);
 
@@ -125,15 +130,15 @@ Na produÃ§Ã£o e apresentaÃ§Ã£o do relatÃ³rio discutir, os conceitos de Algoritmo
 
 ğŸ•’ 3. (10 min) RÃ¡pida apresentaÃ§Ã£o do tema pelo professor.
 
-ğŸ•“ 4. (15 min) PromoÃ§Ã£o de discussÃ£o sobre os interesses no tema que serÃ¡ estudado. O que querem aprender e experienciar durante a unidade? (Sala).
+ğŸ•“ 4. (15 min) PromoÃ§Ã£o de discussÃ£o sobre os interesses no tema que serÃ¡ estudado. O que serÃ¡ aprendendidi e experienciar durante a unidade? (Sala).
 
-ğŸ•” 5. (5 min) SeleÃ§Ã£o do tÃ³pico que cada grupo irÃ¡ estudar. Os estudantes discutem seus interesses e selecionam um tÃ³pico para seu grupo (Sala).
+ğŸ•” 5. (5 min) SeleÃ§Ã£o dos exercicios que serÃ£o realizados pelos grupos. Cada estudante escolhe um exemplo de calculo simples a ser implementado (Sala).
 
-ğŸ•• 6. (5 min) Cada grupo divide seu tÃ³pico em subtÃ³picos para dividir o trabalho dentro do grupo (Sala).
+ğŸ•• 6. (5 min) Cada grupo divide os exemplos entre os estudantes do grupo (Sala).
 
-ğŸ•– 7. (30 min) PreparaÃ§Ã£o dos subtÃ³picos pelos membros do grupo (estudo individual).
+ğŸ•– 7. (30 min) RealizaÃ§Ã£o (modelo, algoritmo, codigo e simulaÃ§Ã£o) pelos membros dos grupsos (estudo individual).
 
-ğŸ•— 8. (10 min) Os membros do grupo discutem o tema, como um painel de especialistas, apresentando os conceitos e questÃµes chaves (reuniÃ£o do grupo).
+ğŸ•— 8. (10 min) Os membros do grupo discutem os exemplos feitos, como um painel de especialistas, apresentando os conceitos e questÃµes chaves (reuniÃ£o do grupo).
 
 ğŸ•˜ 9. (10 min) ApresentaÃ§Ã£o formais dos subtÃ³picos em cada grupo (reuniÃ£o do grupo).
 
@@ -153,4 +158,4 @@ Na produÃ§Ã£o e apresentaÃ§Ã£o do relatÃ³rio discutir, os conceitos de Algoritmo
 
 ğŸ•’ 15. (10 min/grupo) Feedback (sala).
 
-"""«code_foldedÃÙ$e9af4550-b632-11eb-1d0d-e11b45468706„§cell_idÙ$e9af4550-b632-11eb-1d0d-e11b45468706°running_disabledÂ¤codeÙ3html"<button onclick=present()> Presente </button>"«code_foldedÃ«notebook_idÙ$d2e4c54a-c899-11eb-31b4-072815a7395b«in_temp_dirÂ
+"""«code_foldedÃÙ$e9af4550-b632-11eb-1d0d-e11b45468706„§cell_idÙ$e9af4550-b632-11eb-1d0d-e11b45468706°running_disabledÂ¤codeÙ3html"<button onclick=present()> Presente </button>"«code_foldedÃ«notebook_idÙ$80e8a798-d020-11eb-199d-3b05e27b8361«in_temp_dirÂ
