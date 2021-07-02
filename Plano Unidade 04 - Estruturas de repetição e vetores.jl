@@ -9,7 +9,7 @@ html"<button onclick=present()> Presente </button>"
 
 # ╔═╡ 4fb54a13-3db2-4475-bd49-fd0f9d5cefa4
 md"""
-## Plano Unidade 03 - Cálculo com Julia
+## Plano Unidade 04 - Estruturas de repetição e vetores
 
 ## Ementa da Disciplina:
 
@@ -21,36 +21,34 @@ md"""
 
 ### Subitens
 
-**Fonte:** ASCENCIO, Ana Fernanda Gomes; DE CAMPOS, Edilene Aparecida Veneruchi. Fundamentos da programação de computadores. Pearson Educación, 2008.
+**Capítulo 6 - Estrutura de repetição**
 
-**Capitulo 3 do livro.**
- 
-- 3.1 Estrutura sequencial em algoritmos.
+- 5.1 Estrutura de repetição em algoritmo
+- 5.3 Estrutura de repetição em C/C++
 
-- 3.3 Estrutura sequencial em C/C++.
+**Capítulo 6 - Vetor**
+- 6.1 Vetor em algoritmos
+- 6.3 Vetor em C/C++  155
 
-**Capitulo 4 do livro.**
+**Fonte:** ASCENCIO, Ana Fernanda Gomes; DE CAMPOS, Edilene Aparecida Veneruchi. **Fundamentos da programação de computadores**. Pearson Educación, 2008.
 
-- 4.1 Estrutura condicional em algoritmos.
 
-- 4.3 Estrutura condicional em c/c++.
+**Wikibooks - Introducing Julia**
+- Controlling the flow
+- Arrays and tuples
+
+**Fonte:** [WIKIBOOKS. Introducing Julia. 2021.](https://en.wikibooks.org/wiki/Introducing_Julia)
+
 
 ## Resultados de aprendizagem esperados
 
-✔ Compreendeer e aplicar os conceitos de algoritmo, programa e linguagem de programação.
+✔ Compreendeer e aplicar os conceitos de linguagem de programação.
 
-✔ Apresentar a modelagem para resolução de problemas de Cálculo. 
-
-✔ Discutir as ativididades de Cálculos.
+✔ Discutir estruturas de repetição e e arrays unidimensionais (vetores).
 
 ✔ Desenvolver estratégias para solução de problemas. 
 
-✔ Estabelecer relações interpessoais e trabalhar em equipe. 
-
-✔ Comunicar-se oralmente. 
-
-✔ Ter responsabilidade coletiva.
-
+✔ Estabelecer relações interpessoais e trabalhar em equipe, comunicar-se oralmente e ter responsabilidade coletiva.
 
 # Roteiro da Unidade
 
@@ -58,11 +56,11 @@ md"""
 
 🕐 1. * Atividade a ser executada por cada grupo (momento aula)
  
-- Apresentar a utilização do Julia na solução de problemas de Cálculo.
+- Apresentar a utilização de estruturas `for` e arrays unidimensionais (vetores) na linguagem julia.
 
 🕒 2. (30 min) Apresentação do tema pelo professor.
 
-🕑 3. (60 min) Ler os subitems 3.1, 3.3, 4.1 e 4.3 e postar no Classroom resumo de até uma página do que estudou (Resumo pré);
+🕑 3. (90 min) Ler os subitems 5.1, 5.3, 6.1 e 6.3 e o material indicado das páginas do [Wikibooks - Introducing Julia](https://en.wikibooks.org/wiki/Introducing_Julia) e postar no Classroom resumo de até uma página do que estudou (Resumo pré);
 
 #### Bibliografia.
 
@@ -70,41 +68,32 @@ md"""
 
 * Pesquisa a rede computadores. [As fontes devem ser formalmente citadas na norma da ABNT](http://www.biblioteca.fsp.usp.br/~biblioteca/guia/a_modelos.htm).
 
+* [WIKIBOOKS. Introducing Julia. 2021.](https://en.wikibooks.org/wiki/Introducing_Julia)
 
 # Roteiro da aula
 
 #### Momento Aula
 
-🕓 4. (15 min) O que será aprendendido e experienciado durante a unidade? (Sala).
+🕔 4. (30 min) Seleção dos temas e subtemas com justificativa para que o que será aprendendido e experienciado durante a unidade.
 
-🕔 5. (5 min) Seleção dos subtemas que serão apresentados pelos grupos (Sala).
+🕕 5. (60 min) Cada grupo divide os subtemas entre os estudantes do grupo; elaboram os estudos dos subtemas (modelos, algoritmos, códigos, simulações e análises); como um painel de especialistas, apresentam ao grupo os conceitos e questões chaves e apresentações formais dos subtemas em cada grupo (reunião do grupo).
 
-🕕 6. (5 min) Cada grupo divide os subtemas entre os estudantes do grupo (Sala).
-
-🕖 7. (30 min) Elaboração dos estudos dos subtemas e implementações de código necesárias pelos estuddantes do grupo.
-
-🕗 8. (10 min) Os estudantes do grupo, como um painel de especialistas, apresentam os conceitos e questões chaves (reunião do grupo).
-
-🕘 9. (10 min) Apresentações formais dos subtemas em cada grupo (reunião do grupo).
-
-🕙 10. (5 min/grupo) Apresentações de alguns subtemas pelos membros responsávies em cada grupo (seleção por sorteio a critério do professsor) (sala).
+🕙 6. (10 min/subtema) Apresentações de alguns subtemas pelos membros responsávies em cada grupo (seleção por sorteio a critério do professsor) (sala).
 
 ## Roteiro
 
 #### Momento Pós
 
-🕚 11. (30 min) Preparação das apresentações de cada um dos grupos (reunião do grupo).
+🕚 7. (60 min) Preparação das apresentações de cada um dos grupos e envio do relatório da atividade via classroom (atividade do grupo).
 
-🕛 12. (10 min) Envio do relatório da atividade via classroom (atividade do grupo).
+🕐 8. (10 min/grupo) Apresentações de cada um dos grupos (sala).
 
-🕐 13. (10 min/grupo) Apresentações de cada um dos grupos (sala).
+🕑 9. (20 min/grupo) Avaliações (sala ou extra sala).
 
-🕑 14. (20 min/grupo) Avaliações (sala ou extra sala).
-
-🕒 15. (10 min/grupo) Feedback (sala).
+🕒 10. (10 min/grupo) Feedback (sala).
 
 """
 
 # ╔═╡ Cell order:
 # ╟─e9af4550-b632-11eb-1d0d-e11b45468706
-# ╠═4fb54a13-3db2-4475-bd49-fd0f9d5cefa4
+# ╟─4fb54a13-3db2-4475-bd49-fd0f9d5cefa4
