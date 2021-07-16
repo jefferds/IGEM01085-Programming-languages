@@ -1,0 +1,129 @@
+Œ¥bonds€¬cell_results‚Ù$e9af4550-b632-11eb-1d0d-e11b45468706ˆ¦queuedÂ±published_objects€§runningÂ¦output…¤bodyÙ-<button onclick=present()> Presente </button>°persist_js_stateÂ¤mime©text/html²last_run_timestampËAØ<WJ›lœ¬rootassigneeÀ§cell_idÙ$e9af4550-b632-11eb-1d0d-e11b45468706¹depends_on_disabled_cellsÂ§runtimeÍ
+(§erroredÂÙ$4fb54a13-3db2-4475-bd49-fd0f9d5cefa4ˆ¦queuedÂ±published_objects€§runningÂ¦output…¤bodyÚ <div class="markdown"><h2>Plano Unidade 05 - Matrizes, Tabelas e Dataframes</h2>
+<h3>Tema relacionado na ementa:</h3>
+<ol start="3">
+<li><p>Comandos de uma linguagem procedimental: atribuiÃ§Ã£o, entrada e saÃ­da, condicionais, repetitivos e seletivos.</p>
+</li>
+</ol>
+<ul>
+<li><p>VariÃ¡veis escalares e estruturadas homogÃªneas e heterogÃªneas. Vetores e encadeamento de estruturas.</p>
+</li>
+</ul>
+<h3>Subitens</h3>
+<p><strong>CapÃ­tulo 7 - Matriz</strong></p>
+<ul>
+<li><p>7.1 Matriz em algoritmos</p>
+</li>
+<li><p>7.3 Matriz em C/C&#43;&#43;</p>
+</li>
+<li><p>7.4 Matriz em JAVA</p>
+</li>
+</ul>
+<p><strong>Fonte:</strong> ASCENCIO, Ana Fernanda Gomes; DE CAMPOS, Edilene Aparecida Veneruchi. <strong>Fundamentos da programaÃ§Ã£o de computadores</strong>. Pearson EducaciÃ³n, 2008.</p>
+<p><strong>Working with Data Frames</strong> <a href="https://dataframes.juliadata.org/stable/man/working_with_dataframes/">Working with Data Frames.</a></p>
+<h2>Resultados de aprendizagem esperados</h2>
+<p>âœ” Discutir estruturas de arrays, tabelas e Dataframes.</p>
+<p>âœ” Desenvolver estratÃ©gias para soluÃ§Ã£o de problemas. </p>
+<p>âœ” Estabelecer relaÃ§Ãµes interpessoais e trabalhar em equipe, comunicar-se oralmente e ter responsabilidade coletiva.</p>
+<h1>Roteiro da Unidade</h1>
+<h4>Momento PrÃ©</h4>
+<p>ğŸ• 1. * Atividade a ser executada por cada grupo &#40;momento aula&#41; <strong>&#40;16/07/2021&#41;</strong></p>
+<ul>
+<li><p><em><strong>Apresentar a utilizaÃ§Ã£o de arrays mutidimensionais &#40;Matrizes, tabelas e Matrizes&#41; na linguagem julia</strong></em>.</p>
+</li>
+</ul>
+<p>ğŸ•’ 2. &#40;30 min&#41; ApresentaÃ§Ã£o do tema pelo professor <strong>&#40;16/07/2021&#41;</strong>.</p>
+<p>ğŸ•‘ 3. &#40;90 min&#41; Ler os subitens 7.1, 7.3 e 7.4 e o material indicado das pÃ¡ginas do <a href="https://dataframes.juliadata.org/stable/man/working_with_dataframes/">Working with Data Frames.</a> e postar no Classroom resumo de atÃ© uma pÃ¡gina do que estudou &#40;Resumo prÃ©&#41; <strong>&#40;atÃ© 20/07/2021&#41;</strong>;</p>
+<h4>Bibliografia.</h4>
+<ul>
+<li><p>ASCENCIO, Ana Fernanda Gomes; DE CAMPOS, Edilene Aparecida Veneruchi. Fundamentos da programaÃ§Ã£o de computadores. Pearson EducaciÃ³n, 2008.</p>
+</li>
+<li><p>Pesquisa a rede computadores. <a href="http://www.biblioteca.fsp.usp.br/~biblioteca/guia/a_modelos.htm">As fontes devem ser formalmente citadas na norma da ABNT</a>.</p>
+</li>
+<li><p><a href="https://dataframes.juliadata.org/stable/man/working_with_dataframes/">Working with Data Frames.</a> </p>
+</li>
+</ul>
+<h1>Roteiro da aula</h1>
+<h4>Momento Aula</h4>
+<p>ğŸ•” 4. &#40;30 min&#41; SeleÃ§Ã£o dos temas e subtemas com justificativa para que o que serÃ¡ aprendendido e experienciado durante a unidade <strong>&#40;20/07/2021&#41;</strong>.</p>
+<p>ğŸ•• 5. &#40;60 min&#41; Cada grupo divide os subtemas entre os estudantes do grupo; elaboram os estudos dos subtemas &#40;modelos, algoritmos, cÃ³digos, simulaÃ§Ãµes e anÃ¡lises&#41;; como um painel de especialistas, apresentam ao grupo os conceitos e questÃµes chaves e apresentaÃ§Ãµes formais dos subtemas em cada grupo &#40;reuniÃ£o do grupo&#41; <strong>&#40;atÃ© 23/07/2021&#41;</strong>.</p>
+<p>ğŸ•™ 6. &#40;10 min/subtema&#41; ApresentaÃ§Ãµes de alguns subtemas pelos membros responsÃ¡vies em cada grupo &#40;seleÃ§Ã£o por sorteio a critÃ©rio do professsor&#41; &#40;sala&#41; <strong>&#40;23/07/2021&#41;</strong>.</p>
+<h2>Roteiro</h2>
+<h4>Momento PÃ³s</h4>
+<p>ğŸ•š 7. &#40;60 min&#41; PreparaÃ§Ã£o das apresentaÃ§Ãµes de cada um dos grupos e envio do relatÃ³rio da atividade via classroom &#40;atividade do grupo&#41; <strong>&#40;27/07/2021&#41;</strong>.</p>
+<p>ğŸ• 8. &#40;10 min/grupo&#41; ApresentaÃ§Ãµes de cada um dos grupos &#40;sala&#41; <strong>&#40;30/07/2021&#41;</strong>.</p>
+<p>ğŸ•‘ 9. &#40;20 min/grupo&#41; AvaliaÃ§Ãµes &#40;sala ou extra sala&#41; <strong>&#40;30/07/2021&#41;</strong>.</p>
+<p>ğŸ•’ 10. &#40;10 min/grupo&#41; Feedback &#40;sala&#41; <strong>&#40;30/07/2021&#41;</strong>.</p>
+</div>°persist_js_stateÂ¤mime©text/html²last_run_timestampËAØ<WJ›­¬rootassigneeÀ§cell_idÙ$4fb54a13-3db2-4475-bd49-fd0f9d5cefa4¹depends_on_disabled_cellsÂ§runtimeÍéœ§erroredÂ±cell_dependencies‚Ù$e9af4550-b632-11eb-1d0d-e11b45468706„´precedence_heuristic§cell_idÙ$e9af4550-b632-11eb-1d0d-e11b45468706´downstream_cells_map€²upstream_cells_map©@html_strÙ$4fb54a13-3db2-4475-bd49-fd0f9d5cefa4„´precedence_heuristic§cell_idÙ$4fb54a13-3db2-4475-bd49-fd0f9d5cefa4´downstream_cells_map€²upstream_cells_map‚§@md_str¨getindex´cell_execution_order’Ù$e9af4550-b632-11eb-1d0d-e11b45468706Ù$4fb54a13-3db2-4475-bd49-fd0f9d5cefa4©shortpathÙ4Plano Unidade 05 - Matrizes, Tabelas e Dataframes.jl®process_status¨starting¤pathÙ†/home/runner/work/IGEM01085-Programming-languages/IGEM01085-Programming-languages/Plano Unidade 05 - Matrizes, Tabelas e Dataframes.jlªcell_order’Ù$e9af4550-b632-11eb-1d0d-e11b45468706Ù$4fb54a13-3db2-4475-bd49-fd0f9d5cefa4¥nbpkg‡²installed_versions€°terminal_outputs€§enabledÃ·restart_recommended_msgÀ´restart_required_msgÀ­busy_packages¬instantiatedÃ«cell_inputs‚Ù$e9af4550-b632-11eb-1d0d-e11b45468706„§cell_idÙ$e9af4550-b632-11eb-1d0d-e11b45468706°running_disabledÂ¤codeÙ3html"<button onclick=present()> Presente </button>"«code_foldedÃÙ$4fb54a13-3db2-4475-bd49-fd0f9d5cefa4„§cell_idÙ$4fb54a13-3db2-4475-bd49-fd0f9d5cefa4°running_disabledÂ¤codeÚQmd"""
+## Plano Unidade 05 - Matrizes, Tabelas e Dataframes
+
+### Tema relacionado na ementa:
+
+3. Comandos de uma linguagem procedimental: atribuiÃ§Ã£o, entrada e saÃ­da, condicionais, repetitivos e seletivos.
+
+- VariÃ¡veis escalares e estruturadas homogÃªneas e heterogÃªneas. Vetores e encadeamento de estruturas.
+
+### Subitens
+
+**CapÃ­tulo 7 - Matriz**
+
+- 7.1 Matriz em algoritmos
+- 7.3 Matriz em C/C++
+- 7.4 Matriz em JAVA
+
+**Fonte:** ASCENCIO, Ana Fernanda Gomes; DE CAMPOS, Edilene Aparecida Veneruchi. **Fundamentos da programaÃ§Ã£o de computadores**. Pearson EducaciÃ³n, 2008.
+
+**Working with Data Frames**
+[Working with Data Frames.](https://dataframes.juliadata.org/stable/man/working_with_dataframes/)
+
+## Resultados de aprendizagem esperados
+
+âœ” Discutir estruturas de arrays, tabelas e Dataframes.
+
+âœ” Desenvolver estratÃ©gias para soluÃ§Ã£o de problemas. 
+
+âœ” Estabelecer relaÃ§Ãµes interpessoais e trabalhar em equipe, comunicar-se oralmente e ter responsabilidade coletiva.
+
+# Roteiro da Unidade
+
+#### Momento PrÃ©
+
+ğŸ• 1. * Atividade a ser executada por cada grupo (momento aula) **(16/07/2021)**
+ 
+- _**Apresentar a utilizaÃ§Ã£o de arrays mutidimensionais (Matrizes, tabelas e Matrizes) na linguagem julia**_.
+
+ğŸ•’ 2. (30 min) ApresentaÃ§Ã£o do tema pelo professor **(16/07/2021)**.
+
+ğŸ•‘ 3. (90 min) Ler os subitens 7.1, 7.3 e 7.4 e o material indicado das pÃ¡ginas do [Working with Data Frames.](https://dataframes.juliadata.org/stable/man/working_with_dataframes/) e postar no Classroom resumo de atÃ© uma pÃ¡gina do que estudou (Resumo prÃ©) **(atÃ© 20/07/2021)**;
+
+#### Bibliografia.
+
+* ASCENCIO, Ana Fernanda Gomes; DE CAMPOS, Edilene Aparecida Veneruchi. Fundamentos da programaÃ§Ã£o de computadores. Pearson EducaciÃ³n, 2008.
+
+* Pesquisa a rede computadores. [As fontes devem ser formalmente citadas na norma da ABNT](http://www.biblioteca.fsp.usp.br/~biblioteca/guia/a_modelos.htm).
+
+* [Working with Data Frames.](https://dataframes.juliadata.org/stable/man/working_with_dataframes/) 
+
+# Roteiro da aula
+
+#### Momento Aula
+
+ğŸ•” 4. (30 min) SeleÃ§Ã£o dos temas e subtemas com justificativa para que o que serÃ¡ aprendendido e experienciado durante a unidade **(20/07/2021)**.
+
+ğŸ•• 5. (60 min) Cada grupo divide os subtemas entre os estudantes do grupo; elaboram os estudos dos subtemas (modelos, algoritmos, cÃ³digos, simulaÃ§Ãµes e anÃ¡lises); como um painel de especialistas, apresentam ao grupo os conceitos e questÃµes chaves e apresentaÃ§Ãµes formais dos subtemas em cada grupo (reuniÃ£o do grupo) **(atÃ© 23/07/2021)**.
+
+ğŸ•™ 6. (10 min/subtema) ApresentaÃ§Ãµes de alguns subtemas pelos membros responsÃ¡vies em cada grupo (seleÃ§Ã£o por sorteio a critÃ©rio do professsor) (sala) **(23/07/2021)**.
+
+## Roteiro
+
+#### Momento PÃ³s
+
+ğŸ•š 7. (60 min) PreparaÃ§Ã£o das apresentaÃ§Ãµes de cada um dos grupos e envio do relatÃ³rio da atividade via classroom (atividade do grupo) **(27/07/2021)**.
+
+ğŸ• 8. (10 min/grupo) ApresentaÃ§Ãµes de cada um dos grupos (sala) **(30/07/2021)**.
+
+ğŸ•‘ 9. (20 min/grupo) AvaliaÃ§Ãµes (sala ou extra sala) **(30/07/2021)**.
+
+ğŸ•’ 10. (10 min/grupo) Feedback (sala) **(30/07/2021)**.
+
+"""«code_foldedÃ«notebook_idÙ$49e9670c-e61f-11eb-2efb-972113fea037«in_temp_dirÂ
