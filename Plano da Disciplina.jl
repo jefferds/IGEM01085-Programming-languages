@@ -1,5 +1,5 @@
 ### A Pluto.jl notebook ###
-# v0.14.5
+# v0.19.0
 
 using Markdown
 using InteractiveUtils
@@ -13,39 +13,29 @@ md"""
 
 ## Ementa da Disciplina:
 
-1. Conceitos primários: 
+1. **Conceitos primários:** (A) Algoritmo, programa, linguagem de programação, compilador. (B) Evolução das linguagens de programação.
 
-	- Algoritmo, programa, linguagem de programação, compilador. 
+2. **Desenvolvimento de algoritmos:** linguagens para algoritmos e refinamento passo a passo.
 
+3. **Comandos de uma linguagem procedimental:** atribuição, entrada e saída, condicionais, repetitivos e seletivos. (A) Variáveis escalares e estruturadas homogêneas e heterogêneas. Vetores e encadeamento de estruturas.
 
-	- Evolução das linguagens de programação. 
-
-2. Desenvolvimento de algoritmos: linguagens para algoritmos e refinamento passo a passo. 
-
-3. Comandos de uma linguagem procedimental: atribuição, entrada e saída, condicionais, repetitivos e seletivos. 
-
-	- Variáveis escalares e estruturadas homogêneas e heterogêneas. Vetores e encadeamento de estruturas. 
-
-4. Subprogramação: funções, procedimentos, passagem de parâmetros, recursividade.  Ponteiros. 
+4. **Subprogramação:** funções, procedimentos, passagem de parâmetros, recursividade.  Ponteiros.
 
 5. Noções de programação orientada a objetos.
 
-
 ## Resultados de aprendizagem esperados
 
-##### 🥇 Utilizar computadores e softwares no desenvolvimento de atividades de Engenharia Mecânica.
+*🥇 Utilizar computadores e softwares no desenvolvimento de atividades de Engenharia Mecânica.*
 
-##### 🥈 Desenvolver programas computacionais em linguagens de programações para solução de problema de Engenharia Mecânica.
+*🥈 Desenvolver programas computacionais em linguagens de programações para solução de problema de Engenharia Mecânica.*
 
-##### 🥉 Conhecer ferramentas computacionais e aplicativos capazes de auxílio em atividades relacionados à Engenharia.
-
+*🥉 Conhecer ferramentas computacionais e aplicativos capazes de auxílio em atividades relacionados à Engenharia.*
 
 ## Metodologia
 
 ### Estratégia
 
 Com base no livro de ELMÔR FILHO, Gabriel et al. $(html"<a href='https://g.co/kgs/z62mSU' target='_blank'>Uma nova sala de aula é possível: aprendizagem ativa na educação em engenharia.</a>") Rio de Janeiro: LTC, 2019.
-
 
 Será aplicada a **Sala de aula invertida** com utilização da Estratégia *Co-op co-op* que é uma estratégia cooperativa de aprendizagem ativa.
 
@@ -68,8 +58,6 @@ Será aplicada a **Sala de aula invertida** com utilização da Estratégia *Co-
 
 🕑 2. Os estudantes têm a tarefa de ler sobre o assunto e postar no Classroom resumo de uma página do que estudou (Resumo pré) (Extra sala).
 
-## Roteiro
-
 #### Momento Aula
 
 🕒 3. Rápida verificação do entendimento do tema pelo professor (Sala).
@@ -88,8 +76,6 @@ Será aplicada a **Sala de aula invertida** com utilização da Estratégia *Co-
 
 🕙 10. Apresentações de subtópicos pelos grupos (seleção por sorteio a critério do professsor) (sala).
 
-## Roteiro
-
 #### Momento Pós
 
 🕚 11. Preparação das apresentações de cada um dos grupos (reunião do grupo).
@@ -107,12 +93,9 @@ Será aplicada a **Sala de aula invertida** com utilização da Estratégia *Co-
 ## Recursos e Materiais Didáticos
 
 1. Google Classroom;
-2. Google Meet para encontros;
-3. Jamboard como quadro branco;
-4. Google Forms para formulários e avaliações;
-5. Google Drive para arquivos (Docs, Slides, Planilhas, Desenhos);
-6. Os recurso $(html"<a href='https://code.visualstudio.com/' target='_blank'>Vscode</a>") e $(html"<a href='https://julialang.org/' target='_blank'>Linguagem Julia</a>") e $(html"<a href='https://github.com/fonsp/Pluto.jl' target='_blank'>Pluto.jl</a>") para Relatórios.
-7. Página do professor para registro dos casos.
+2. Google Forms para formulários e avaliações;
+3. Os recurso $(html"<a href='https://code.visualstudio.com/' target='_blank'>Vscode</a>") e $(html"<a href='https://julialang.org/' target='_blank'>Linguagem Julia</a>") e $(html"<a href='https://github.com/fonsp/Pluto.jl' target='_blank'>Pluto.jl</a>") para Relatórios.
+4. Página do professor para registro dos casos.
 
 ## Indicações de Referências
 
@@ -132,7 +115,6 @@ Será aplicada a **Sala de aula invertida** com utilização da Estratégia *Co-
 
 6. FEOFILOFF, P. Algoritmos em Linguagem C. Rio de Janeiro: Campus-Elsevier, 2009.
 
-
 ### Bibliografia Complementar  (PPC):
 
 1. DROSDEK, A. Estrutura de Dados e Algoritmos em C++. São Paulo: Thomson,2002.
@@ -145,14 +127,12 @@ Será aplicada a **Sala de aula invertida** com utilização da Estratégia *Co-
 
 5. ART, Lew; MAUCH, Holger. Introduction to dynamic programming. Springer Berlin Heidelberg, 2007.
 
-
 ## Procedimento de Avaliação da Apredizagem
 
 Avaliação será:
 
-- Contínua 
-- Individual 
-- Por atividade a ser desenvolvida
+- Contínua - Individual - Por atividade a ser desenvolvida (70% da nota)
+- Prova final (30% da nota)
 
 ## Procedimento de Avaliação da Apredizagem
 
@@ -171,16 +151,9 @@ Avaliação será:
 
 A seguir são enumeradas os itens que serão avaliados.
 
-Para cada atividade serão avaliados:
-
 1. Apresentações dos grupos (peso 1).
 2. Contribuições individuais (peso 1).
-3. Relatório em arquivo html para postagem (peso 1).
-
-
-## Procedimento de Avaliação da Apredizagem
-
-### Composição das Notas
+3. Relatório da Unidade (peso 1).
 
 #### 1. Apresentações dos grupos (peso 1)
 
@@ -189,25 +162,13 @@ Avalições que serão consideradas neste item:
 - Avaliação por pares (peso 1)
 - Avaliação do professor (peso 1)
 
-
-## Procedimento de Avaliação da Apredizagem
-
-### Composição das Notas
-
 #### 2. Contribuições individuais (peso 1)
-
-Avaliações que serão consideradas: 
 
 - Avaliação do resumo pré (peso 1)
 - Avaliação por pares (peso 1)
 - Avaliação do professor (peso 1)
 
-
-## Procedimento de Avaliação da Apredizagem
-
-### Composição das Notas
-
-#### 3. Relatório em arquivo html para postagem (peso 1).
+#### 3. Relatório da Unidade (peso 1).
 
 - Autoavaliação (peso 1)
 - Avaliação por pares (peso 1)
@@ -215,6 +176,23 @@ Avaliações que serão consideradas:
 
 """
 
+# ╔═╡ 00000000-0000-0000-0000-000000000001
+PLUTO_PROJECT_TOML_CONTENTS = """
+[deps]
+"""
+
+# ╔═╡ 00000000-0000-0000-0000-000000000002
+PLUTO_MANIFEST_TOML_CONTENTS = """
+# This file is machine-generated - editing it directly is not advised
+
+julia_version = "1.7.2"
+manifest_format = "2.0"
+
+[deps]
+"""
+
 # ╔═╡ Cell order:
 # ╟─e6e24892-e2b7-472f-9a5c-7d1cbe34eeb6
 # ╠═f92f9d30-b368-11eb-2e66-a7bbf5a4a943
+# ╟─00000000-0000-0000-0000-000000000001
+# ╟─00000000-0000-0000-0000-000000000002
