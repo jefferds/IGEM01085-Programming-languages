@@ -39,7 +39,6 @@ md"""
 **Modules - Documentação do Julia**
 [Introducing Julia/Modules and packages.](https://docs.julialang.org/en/v1/manual/modules/)
 
-
 ## Resultados de aprendizagem esperados
 
 ✔ Apresentar os conceitos Sub-programação e orientação da objeto .
@@ -48,19 +47,15 @@ md"""
 
 ✔ Estabelecer relações interpessoais e trabalhar em equipe, comunicar-se oralmente e ter responsabilidade coletiva.
 
-# Roteiro da Unidade
+# Roteiro
 
 #### Momento Pré
 
-🕐 1. * Atividade a ser executada por cada grupo (momento aula) **(03/08/2021)**
+🕐 1. * Atividade a ser executada por cada grupo **(05/08/2021)**
  
 - _**Fazer apresentação dos conceitos de subprogramação e apresentar exemplos de programas implementados utilizando funções e módulos**_.
 
-- _**Apresentar implementação a criação de um objeto em Julia (Orientação a objeto)**_.
-
-🕒 2. (30 min) Apresentação do tema pelo professor **(03/08/2021)**.
-
-🕑 3. (90 min) Ler os subitens 8.1, 8.3 e 8.4, e seus subsubitens e o material indicado nos links. Postar no Classroom resumo de até uma página do que estudou (Resumo pré) **(até 06/08/2021)**;
+🕑 2. Ler os subitens 8.1, 8.3 e 8.4, e seus subsubitens e o material indicado nos links. Postar no Classroom resumo de até uma página do que estudou (Resumo pré) **(até 10/08/2021)**;
 
 #### Bibliografia.
 
@@ -80,27 +75,17 @@ md"""
 **Modules - Documentação do Julia**
 [Introducing Julia/Modules and packages.](https://docs.julialang.org/en/v1/manual/modules/)
 
-# Roteiro da aula
-
 #### Momento Aula
 
-🕔 4. (30 min) Seleção dos temas e subtemas com justificativa para que o que será aprendendido e experienciado durante a unidade **(06/08/2021)**.
+🕔 3. (30 min) Seleção dos subtemas com justificativa para que o que será aprendendido e experienciado durante a unidade e cada estudante elabora os estudos dos subtemas (modelos, algoritmos, códigos, simulações e análises) **(até 13/08/2021)**.
 
-🕕 5. (60 min) Cada grupo divide os subtemas entre os estudantes do grupo; elaboram os estudos dos subtemas (modelos, algoritmos, códigos, simulações e análises); como um painel de especialistas, apresentam ao grupo os conceitos e questões chaves e apresentações formais dos subtemas em cada grupo (reunião do grupo) **(até 10/08/2021)**.
-
-🕙 6. (10 min/subtema) Apresentações de alguns subtemas pelos membros responsávies em cada grupo (seleção por sorteio a critério do professsor) (sala) **(10/08/2021)**.
-
-## Roteiro
+🕙 6. (10 min/subtema) Apresentações do subtemas **(13/07/2021)**.
 
 #### Momento Pós
 
-🕚 7. (60 min) Preparação das apresentações de cada um dos grupos e envio do relatório da atividade via classroom (atividade do grupo) **(até 13/08/2021)**.
+🕑 7. (20 min/grupo) Avaliações (sala ou extra sala) **(até 17/08/2021)**.
 
-🕐 8. (10 min/grupo) Apresentações de cada um dos grupos (sala) **(13/08/2021)**.
-
-🕑 9. (20 min/grupo) Avaliações (sala ou extra sala) **(17/07/2021)**.
-
-🕒 10. (10 min/grupo) Feedback (sala) **(17/07/2021)**.
+🕒 8. (10 min/grupo) Feedback (sala) **(17/08/2021)**.
 
 """
 
