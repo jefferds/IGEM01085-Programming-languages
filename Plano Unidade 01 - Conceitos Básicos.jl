@@ -55,7 +55,7 @@ Identificar um problema e implementar  uma modelo computacional que permita o c�
 
 Na produção e apresentação do relatório discutir, os conceitos de Algoritmo, programa, linguagem de programação e compilador.
 
-🕑  2. (30 min) Os estudantes têm a tarefa de ler sobre o assunto e postar no Classroom resumo de até uma página do que estudou (Resumo pré);
+🕑  2. Os estudantes têm a tarefa de ler sobre o assunto e postar no Classroom resumo de até uma página do que estudou (Resumo pré);
 
 #### Bibliografia.
 
@@ -63,21 +63,21 @@ Na produção e apresentação do relatório discutir, os conceitos de Algoritmo
 
 * Pesquisa a rede computadores. [As fontes devem ser formalmente citadas na norma da ABNT](http://www.biblioteca.fsp.usp.br/~biblioteca/guia/a_modelos.htm).
 
-🕒 3. (10 min) Rápida apresentação do tema pelo professor.
+🕒 3. Rápida apresentação do tema pelo professor.
 
-🕓 4. (15 min) Promoção de discussão sobre os interesses no tema que será estudado. O que querem aprender e experienciar durante a unidade?
+🕓 4. Promoção de discussão sobre os interesses no tema que será estudado. O que querem aprender e experienciar durante a unidade?
 
-🕔 5. (5 min) Seleção do tópico que cada grupo irá estudar. Cada grupo divide seu tópico em subtópicos e dividi o trabalho dentro do grupo.
+🕔 5. Seleção do tópico que cada grupo irá estudar. Cada grupo divide seu tópico em subtópicos e dividi o trabalho dentro do grupo.
 
-🕚 6. (30 min) Preparação das apresentações de cada um dos grupos (reunião do grupo).
+🕚 6. Preparação das apresentações de cada um dos grupos (reunião do grupo).
 
-🕛 7. (10 min) Envio via Classroom do relatório da atividade para postagem na internet (atividade do grupo).
+🕛 7. Envio via Classroom do relatório da atividade para postagem na internet (atividade do grupo).
 
-🕐 8. (10 min/grupo) Apresentações de cada um dos grupos (sala).
+🕐 8. Apresentações de cada um dos grupos (sala).
 
-🕑 9. (20 min/grupo) Avaliações (sala ou extra sala).
+🕑 9. Avaliações (sala ou extra sala).
 
-🕒 10. (10 min/grupo) Feedback (sala).
+🕒 10. Feedback (sala).
 
 """
 
