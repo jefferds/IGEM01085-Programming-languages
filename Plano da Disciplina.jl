@@ -1,5 +1,5 @@
 ### A Pluto.jl notebook ###
-# v0.14.8
+# v0.19.0
 
 using Markdown
 using InteractiveUtils
@@ -173,6 +173,33 @@ Avalições que serão consideradas neste item:
 - Autoavaliação (peso 1)
 - Avaliação por pares (peso 1)
 - Avaliação do professor (peso 1)
+
+
+## Grupos
+
+Grupo 1: Mecatômica
+- Rafael Duarte
+- Marcos Nasario
+- Gustavo Costa
+- Francisca Lorrayne
+- Alany
+
+Grupo 2: Akira
+- Giovani Fernandes
+- João Lira
+- Italo Silva
+- Wallex Sousa
+- R0drigo Santos
+
+Grupo 3: R2D2
+- Allan Kardec
+- Guilherme Henrique
+_ Natalice Damaceno
+- Maria Clara
+- Ana Paula
+
+Grupo 4: 
+- 
 
 """
 
