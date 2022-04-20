@@ -198,8 +198,10 @@ _ Natalice Damaceno
 - Maria Clara
 - Ana Paula
 
-Grupo 4: 
-- 
+Grupo 4: Minerva
+- Alexandre
+- Mariana
+- Lucas Brasil
 
 """
 
